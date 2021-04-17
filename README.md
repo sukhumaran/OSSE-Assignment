@@ -11,3 +11,5 @@ Assignment 4 repo for forking
 ### program to find prime numbers
 
 ### program to swap two numbers
+
+### program to solve quadratic quations
